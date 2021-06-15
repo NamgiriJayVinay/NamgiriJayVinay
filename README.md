@@ -27,4 +27,4 @@ I'm a machine learning researcher who is deeply interested in tinkering with neu
 ## Find me around the web 🌎:
 - Everything about me in my <a href="https://jayvinay.com/">Website</a> 🖥
 - Writing in public on <a href="https://namgirijayvinay.medium.com/">Medium</a> ✍🏽
-- Sharing updates on <a href="https://www.linkedin.com/in/jay-vinay/">LinkedIn</a>💼  🐦
+- Sharing updates on <a href="https://www.linkedin.com/in/jay-vinay/">LinkedIn</a>💼
