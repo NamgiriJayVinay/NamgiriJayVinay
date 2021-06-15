@@ -22,7 +22,7 @@ I'm a machine learning researcher who is deeply interested in tinkering with neu
 - 🔭 I’m Passionate to Design & Develop Projects.
 - 🖋 I write articles regarding the Machine Learning and Deep Learning stuff.
 - 🖥 I’m looking to expand my knowledge in UI/UX and busy up myself to provide my servies to any Multi National Company as Software Development Engineer.
-- 🎓 I’m am persuing my Undergrad in Computer Science Doamin with specialisation in Machine Leaning
+- 🎓 I’m am persuing my Undergrad in Computer Science Doamin with specialisation in Machine Learning
 
 ## Find me around the web 🌎:
 - Everything about me in my <a href="https://jayvinay.com/">Website</a> 🖥
